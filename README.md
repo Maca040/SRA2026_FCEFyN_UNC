@@ -22,8 +22,25 @@ El material se organiza combinando el desarrollo teórico paso a paso (en bloque
 ---
 ## Instalación y Uso (Google Colab)
 
- Descargar los archivos .ipynb e importarlos en Google Colab.
+ Descargar los archivos .ipynb e importarlos en Google Colab. 
+ En los archivos que tengan lcapy agregar una nueva celda de código al inicio del notebook con lo siguiente : 
  
+   ```bash
+      # Instalar dependencias del sistema
+      !apt-get update -qq
+      !apt-get install -y -qq \
+          texlive-latex-base \
+          texlive-latex-recommended \
+          texlive-latex-extra \
+          texlive-pictures \
+          texlive-fonts-recommended \
+          cm-super \
+          dvipng \
+          ghostscript \
+          poppler-utils
+      # Instalar Lcapy
+      %pip install -q lcapy
+   ```
 ## Instalación y Uso (localmente)
 1. Clonar el repositorio en tu máquina local:
    ```bash
