@@ -1,7 +1,8 @@
 
 # Síntesis de Redes Activas 
 
-Este repositorio contiene scripts en Python y Jupyter Notebooks desarrollados para complementar los contenidos teóricos y prácticos de la asignatura **Síntesis de Redes Activas** (Ingeniería Electrónica - FCEFyN, Universidad Nacional de Córdoba). Profesor titular: Dr. Ing. Pablo  Ferreyra.
+Este repositorio contiene scripts en Python y Jupyter Notebooks desarrollados para complementar los contenidos teóricos y prácticos de la asignatura **Síntesis de Redes Activas** (Ingeniería Electrónica - FCEFyN, Universidad Nacional de Córdoba). 
+Profesor titular: Dr. Ing. Pablo  Ferreyra.
 
 El objetivo del proyecto es facilitar la comprensión física y matemática de los circuitos activos, permitiendo pasar de las deducciones analíticas en papel a la resolución simbólica exacta, el trazado de curvas de diseño y la verificación numérica.
 
